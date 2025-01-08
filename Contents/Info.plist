@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleGetInfoString</key>
+	<string>Copyright © Will Woodgate</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.themeflood.blank</string>
+	<key>CFBundleName</key>
+	<string>Blank RapidWeaver Theme</string>
+	<key>CFBundleShortVersionString</key>
+	<string>8.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>800</string>
+	<key>RWAddonAuthor</key>
+	<string>ThemeFlood</string>
+	<key>RWAddonManagerIconAsset</key>
+	<string>addonIcon</string>
+	<key>RWAddonSupportURL</key>
+	<string>https://verdantbytes.com</string>
+	<key>RWThemeIsResponsive</key>
+	<true/>
+	<key>RWThemeSDKVersion</key>
+	<string>7.0</string>
+	<key>RWThemeSupportsBannerImages</key>
+	<false/>
+</dict>
+</plist>
