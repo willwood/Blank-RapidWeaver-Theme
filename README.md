@@ -31,7 +31,7 @@ Blank is compatible across all major web browsers and devices. This includes all
 RapidWeaver compatibility includes both RapidWeaver 8 and RapidWeaver Classic. All common page types like [Stacks](https://yourhead.com/stacks) are supported.
 
 ## License & Support
-Blank is free to download and use under the MIT software license agreement. See the [LICENSE](LICENSE) file for details. 
+Blank is free to download and use under the MIT software license agreement. See the [LICENSE](LICENSE.md) file for details. 
 
 It's ongoing development entails much time and effort, so I would really appreciate a donation for what you think Blank is worth to you. A one-off or reoccuring donation can be pledged using either of these services:
 
